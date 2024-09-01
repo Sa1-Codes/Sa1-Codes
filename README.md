@@ -1,3 +1,5 @@
+[alt text](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+
 - 👋 Hi, I’m Sawan
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 😄 Employement ... Looking for an Internship
