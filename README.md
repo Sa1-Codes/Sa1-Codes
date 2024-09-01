@@ -1,4 +1,4 @@
-Hi, ![alt text](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif) I’m Sawan
+<span style="font-size:2em;">Hi,</span> <span style="font-size:2em;">![alt text](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)</span> <span style="font-size:2em;">I’m Sawan</span>
 
 - 👋 Hi, I’m Sawan
 - 🌱 I’m currently learning Data Structures and Algorithm
