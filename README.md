@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Sawan!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300bfff?style=for-the-badge&logo=firefox&logoColor=white)](sawan-portfolio-site.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sawan-004838262)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300bfff?style=for-the-badge&logo=firefox&logoColor=white)](http://sawan-portfolio-site.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sawan-004838262)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sa1-Codes)
 
 ---
